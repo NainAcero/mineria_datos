@@ -1,0 +1,21 @@
+id,name,gender,role,email,email_verified_at,phone,address,age,height,weight,type,income,created_at,updated_at
+1,Prof. Dale Mohr DVM,female,suscriptor,lee.jerde@example.net,2020-12-13T19:49:12.000000Z,(265) 728-4452 x365,"82320 Gerlach Stream
+North Lacyville, ID 60701",49,190,83,Poor,14540,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+2,Danielle Sauer,male,admin,mzboncak@example.com,2020-12-13T19:49:12.000000Z,841.332.2749,"740 Marjorie Fields
+Retabury, OH 04668",43,134,87,Middle Class,14905,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+3,Ruth Crona,female,admin,rutherford.amy@example.net,2020-12-13T19:49:12.000000Z,(613) 864-5386 x54098,"912 Manuel Lights
+Allenville, ND 62814",33,132,48,Rich,17924,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+4,Esther Kulas,male,admin,cleannon@example.net,2020-12-13T19:49:12.000000Z,+1.263.381.1910,"867 Asa Crossing Suite 278
+Port Carole, MT 74595",55,134,53,Middle Class,19527,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+5,Darrin Davis II,male,author,shields.beryl@example.com,2020-12-13T19:49:12.000000Z,294.752.6350,"668 Ondricka Stravenue Suite 471
+South Einoburgh, IN 93678-2707",37,156,69,Poor,17796,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+6,Shanel Cormier,male,admin,saul.monahan@example.org,2020-12-13T19:49:12.000000Z,+1-927-671-1371,"2707 Hauck Centers
+Salmashire, NE 92052",63,139,71,Poor,16983,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+7,Prof. Anabel Goyette V,female,suscriptor,uparisian@example.com,2020-12-13T19:49:12.000000Z,1-512-220-8716,"394 Bradtke Gateway
+West Jackside, OK 54530",44,175,43,Poor,19540,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+8,Miss Bessie Kassulke PhD,male,author,clay77@example.com,2020-12-13T19:49:12.000000Z,+1-994-562-9583,"6409 Johnson Mills Apt. 380
+Alfredoside, UT 15919-9318",65,198,60,Poor,18802,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+9,Jane Wilderman,female,author,aschaefer@example.org,2020-12-13T19:49:12.000000Z,1-305-701-5576,"402 Pfeffer Knoll
+Nitzscheborough, AR 17382-4029",27,178,83,Middle Class,19171,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
+10,Vicenta Moore,male,admin,qbogisich@example.net,2020-12-13T19:49:12.000000Z,230.344.3334 x01617,"473 Jace Mountains
+Schinnerberg, MS 71891-4169",28,184,53,Rich,18528,2020-12-13T19:49:12.000000Z,2020-12-13T19:49:12.000000Z
